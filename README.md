@@ -23,7 +23,7 @@
 ### Tecnologías que he utilizado
 
 **Lenguajes:** Python • Java • JavaScript • SQL • C • C++ • C# • PHP • Assembly    
-**Frameworks:** React • Angular • Django • Flutter, etc.  
+**Frameworks:** React • Angular • Django • Flutter
 **Herramientas:** Git • Docker • PostgreSQL • MongoDB • Postman, Oracle Developer, etc.
 
 ### Proyectos destacados
@@ -51,7 +51,7 @@
 
 **Languages:** Python • Java • JavaScript • SQL • C • C++ • C# • PHP • Assembly  
 
-**Frameworks:** React • Angular • Django • Flutter, etc.  
+**Frameworks:** React • Angular • Django • Flutter
 
 **Tools:** Git • Docker • PostgreSQL • MongoDB • Postman • Oracle Developer, etc.
 
