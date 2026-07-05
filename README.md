@@ -26,7 +26,7 @@
 - 🎓 Actualmente cursando **8vo** semestre.
 - 🌱 Siempre aprendiendo cosas nuevas, la tecnología no se detiene.
 - 🎮 **Mis gustos:** Fan del fútbol, videojuegos competitivos y animes romcom / slice of life. Cuando no estoy programando me encuentras jugando Minecraft, Genshin Impact, juegos Soulslike o carreras.
-- 📫 **Cómo contactarme:** [Correo: edulpzavila@gmail.com](mailto:edulpzavila@gmail.com) | [LinkedIn](https://www.linkedin.com/in/edulz) | Discord: `xdrackoo`
+- 📫 **Cómo contactarme:** Correo: [edulpzavila@gmail.com](mailto:edulpzavila@gmail.com) | [LinkedIn](https://www.linkedin.com/in/edulz) | Discord: `xdrackoo`
 
 ### 🛠️ Tecnologías y Herramientas que he utilizado
 
