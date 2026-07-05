@@ -38,6 +38,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Frameworks y Entornos:**
@@ -63,7 +64,7 @@
 
 - **[Sistema de Evaluaciones de Tránsito](https://github.com/EduLz/SBD1B_1S2026_202100147)** - Sistema Backend y Exposición de Servicios para la Base de Datos "Centros de Evaluación de Manejo". Simplifica y ordena la información relacionada a personas que buscan aprender sobre la conducción de vehículos de todo tipo.
 - **[Sistema de Gestión de Envíos y Logística](https://github.com/EduLz/AYD1_Trackflow-HUB_202100147.git)** - Plataforma web integral diseñada para centralizar y optimizar la gestión de envíos y servicios de logística. Permite a los usuarios registrar, rastrear y coordinar operaciones logísticas de manera sencilla, rápida y segura bajo un despliegue CI/CD.
-- **[Aplicación web multiplataforma EXT2](https://github.com/EduLz/OLC2_Proyecto2_202100147)** - Sistema Backend y Frontend que mediante una aplicación web simula un sistema de archivos EXT2.
+- **[Traductor Web a ARM64](https://github.com/EduLz/OLC2_Proyecto2_202100147)** - Plataforma web que implementa un compilador para el lenguaje académico "Golampi", inspirado en la sintaxis de Golang. Integra las fases fundamentales de procesamiento de lenguajes para traducir el código fuente directamente a ensamblador ARM64.
 
 ---
 
@@ -123,4 +124,4 @@
 
 - **[Traffic Evaluation System](https://github.com/EduLz/SBD1B_1S2026_202100147)** - Backend and service exposure system for the "Vehicle Evaluation Centers" database. It simplifies and organizes all information related to people learning to drive different types of vehicles.
 - **[Shipping and Logistics Management System](https://github.com/EduLz/AYD1_Trackflow-HUB_202100147.git)** - A comprehensive web-based platform designed to centralize and optimize the management of shipping and logistics services. This system allows users to register, track, and coordinate logistics operations easily, quickly, and securely under a CI/CD pipeline deployment.
-- **[EXT2 Filesystem Simulator](https://github.com/EduLz/OLC2_Proyecto2_202100147)** - Web application that simulates an EXT2 file system through a frontend and backend architecture.
+- **[Web Translator to ARM64](https://github.com/EduLz/OLC2_Proyecto2_202100147)** - A web platform that implements a compiler for the academic language "Golampi," inspired by the syntax of Golang. It integrates the fundamental stages of language processing to translate source code directly into ARM64 assembly.
