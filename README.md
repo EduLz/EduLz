@@ -8,26 +8,27 @@
 ## Español <a name="spanish"></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+Eduardo;Estudiante+de+Ingeniería;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+Eduardo;Estudiante+de+Ingeniería" alt="Typing SVG" />
 </p>
 
 <p align="center">
   Estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala (USAC).
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EduLz&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de EduLz" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduLz&layout=compact&theme=tokyonight" alt="Top Lenguajes" />
 </p>
+-->
 
 ### 👨‍💻 Sobre mí
 - 🚀 Camino a ser programador Full-Stack.
 - 🎓 Actualmente cursando **8vo** semestre.
 - 🌱 Siempre aprendiendo cosas nuevas, la tecnología no se detiene.
-- 🎮 **Mis gustos:** Fan del fútbol, videojuegos competitivos y animes romcom / slice of life. Cuando no estoy programando me encuentras jugando Minecraft, Genshin Impact, juegos Soulslike o Forza Horizon 6.
+- 🎮 **Mis gustos:** Fan del fútbol, videojuegos competitivos y animes romcom / slice of life. Cuando no estoy programando me encuentras jugando Minecraft, Genshin Impact, juegos Soulslike o carreras.
 - 📫 **Cómo contactarme:** [Correo Electrónico](mailto:edulpzavila@gmail.com) | [LinkedIn](https://www.linkedin.com/in/edulz) | Discord: `xdrackoo`
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías y Herramientas que he utilizado
 
 **Lenguajes:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,15 +46,14 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Bases de Datos, Herramientas y SO:**
+**Bases de Datos y Herramientas:**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 **Metodologías:** Scrum • MVC • Kanban
 
@@ -68,17 +68,18 @@
 ## English <a name="english"></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Hi!+I'm+Eduardo;Engineering+Student;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Hi!+I'm+Eduardo;Engineering+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
   Computer Science and Systems Engineering Student at Universidad de San Carlos de Guatemala (USAC).
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EduLz&show_icons=true&theme=tokyonight&locale=en" alt="EduLz's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduLz&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+-->
 
 ### 👨‍💻 About me
 - 🚀 Aspiring Full-Stack Developer.
@@ -87,7 +88,7 @@
 - 🎮 **My interests:** Big football fan, competitive video games, and romcom / slice of life animes. When I'm not coding, I play Minecraft, Genshin Impact, Soulslike games, and a wide variety of others (recently Forza Horizon 6).
 - 📫 **How to reach me:** [Email](mailto:edulpzavila@gmail.com) | [LinkedIn](https://www.linkedin.com/in/edulz) | Discord: `xdrackoo`
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools i've used: 
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -105,15 +106,14 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Databases, Tools & OS:**
+**Databases, Tools:**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 **Methodologies:** Scrum • MVC • Kanban
 
